@@ -1,7 +1,7 @@
 //Lip measurements
 LIP_HEIGHT = 8.35;
 LIP_WIDTH = 9.69;
-LIP_GAP = 22.32;
+LIP_GAP = 20.32;
 
 // Hook Measurements
 HOOK_HEIGHT = 4*LIP_HEIGHT;
